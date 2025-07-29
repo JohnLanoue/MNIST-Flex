@@ -15,7 +15,7 @@
 # Luckilly the MNIST dataset can be found in the SKLearn data set module, not to far out of the way.  
 
 # In[1]:
-
+import sklearn
 
 try:
     from sklearn.datasets import fetch_openml
